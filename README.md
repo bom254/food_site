@@ -1,0 +1,1 @@
+A project food site using PHP, HTML, css and javascript for the frontend and MySQL for the database
