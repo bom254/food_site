@@ -1,1 +1,1 @@
-A project food site using PHP, HTML, css and javascript for the frontend and MySQL for the database
+A project food site using  HTML, css and javascript for the frontend and MySQL for the database PHP to link with the database 
