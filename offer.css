@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+.offer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.offer {
+    width: 300px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.offer img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.offer h2 {
+    color: #333;
+    margin-top: 0;
+}
+
+.offer p {
+    color: #666;
+}
+
+.offer .price {
+    color: #4CAF50;
+    font-weight: bold;
+}
